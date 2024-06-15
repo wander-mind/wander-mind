@@ -23,6 +23,25 @@ Feel free to give me advice and help me out; I will be grateful!
 
 ---
 
+## 📊 GitHub Stats
+
+![Wander Mind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wander-mind&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wander-mind&layout=compact&theme=radical)
+
+---
+
+## 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wander-mind&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wander-mind&theme=radical&margin-w=15&margin-h=15)
+
+---
+
 ## 📬 Connect with Me
 - 📧 [Email](mailto:w.m@tuta.com)
 
