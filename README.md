@@ -42,12 +42,6 @@ Feel free to give me advice and help me out; I will be grateful!
 
 ---
 
-## 🌐 Visitors
-
-![Visitor Count](https://shields.io/badge/dynamic/json?color=informational&label=visitors&query=value&url=https://api.countapi.xyz/hit/wander-mind.wander-mind/readme)
-
----
-
 ## 📬 Connect with Me
 - 📧 [Email](mailto:w.m@tuta.com)
 
