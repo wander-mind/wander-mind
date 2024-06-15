@@ -1,18 +1,31 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile! 🌟
 
 ## About Me
-👋 Hello, I'm [Wander Mind], a **System Administrator** and aspiring Programmer & QA Specialist. This is my personal space where I document my journey and share my projects.
+👋 Hello, I'm **Wander Mind**, a **System Administrator** and aspiring **Programmer & QA Specialist**. This is my personal space where I document my journey, share my projects, and connect with like-minded individuals.
 
-## Daily Journal
-I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey [HERE](journal/2024q2.md)
+---
 
-## Projects
+## 🗓️ Daily Journal
+I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey [here](journal/2024q2.md).
+
+---
+
+## 🚀 Projects
 Here are some of the projects I'm working on:
 
-- **[Linux](https://github.com/wander-mind/linux)**: Here I will be documenting my Linux journey, uploading my notes on what I have learned and what I am struggling with at the moment. Later on I will also upload all my configs and dot files too.
+### 🐧 [Linux Journey](https://github.com/wander-mind/linux)
+This repository documents my Linux journey. It includes my notes, struggles, and learnings. In the future, I will also upload my configurations and dotfiles.
 
-- **[Software University](https://github.com/wander-mind/softuni)**: Here I will be uploading all my notes and projects from the Software University of Sofia. I will be graduating in the end of the summer of 2024 as a QA Enginner. I have also embarked on some extra cources for C++, C#, JS, Java, and Python - they will be in separate folders.
+### 🎓 [Software University](https://github.com/wander-mind/softuni)
+In this repository, I upload my notes and projects from the Software University of Sofia. I am set to graduate as a QA Engineer at the end of summer 2024. The repository includes extra courses in C++, C#, JavaScript, Java, and Python, organized in separate folders.
 
-## Conenct with me:
+Feel free to give me advice and help me out; I will be grateful!
 
-- [Email](mailto:w.m@tuta.com)
+---
+
+## 📬 Connect with Me
+- 📧 [Email](mailto:w.m@tuta.com)
+
+---
+
+Thank you for visiting my GitHub profile! 😊
