@@ -42,6 +42,12 @@ Feel free to give me advice and help me out; I will be grateful!
 
 ---
 
+## 🌐 Visitors
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=wander-mind.wander-mind)
+
+---
+
 ## 📬 Connect with Me
 - 📧 [Email](mailto:w.m@tuta.com)
 
