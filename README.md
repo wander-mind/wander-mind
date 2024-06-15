@@ -6,7 +6,7 @@
 ---
 
 ## 🗓️ Daily Journal
-I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey [here](journal/2024q2.md).
+I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey **[HERE](journal/2024q2.md)**.
 
 ---
 
