@@ -1,14 +1,3 @@
-# Welcome to My GitHub Profile!
-
-## About Me
-👋 Hi, I'm [Your Name], a System Administrator and aspiring Programmer & QA Specialist. This is my personal space where I document my journey, share my projects, and compile useful resources.
-
-## Daily Journal
-I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey:
-
-### June 2024
-- **[June 12, 2024](journals/june-2024.md#june-12-2024)**: Learned about Git credential management. Fixed a bug in my project.
-- **[June 11, 2024](journals/june-2024.md#june-11-2024)**: Studied Linux file system hierarchy. Experimented with shell scripting.
 
 ## Projects
 Here are some of the projects I'm working on:
