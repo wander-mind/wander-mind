@@ -12,7 +12,8 @@ I keep a daily journal of my progress as a programmer and Linux user. Follow alo
 
 ## 🏆 Featured Work
 
-- My [ai.md](https://github.com/wander-mind/linux/blob/main/ai.md) document where I explain the dangers of Big tech's AI and how to implement your own better solution locally.
+- My [ai.md](https://github.com/wander-mind/linux/blob/main/ai.md) file where I explain the dangers of Big tech's **AI** and how to implement your own better solution locally.
+- My [learn-linux.md](https://github.com/wander-mind/linux/blob/main/notes/learn-linux.md) file where I collect and document my knowledge about **GNU/Linux**.
 
 ---
 
