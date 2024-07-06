@@ -5,11 +5,6 @@
 
 ---
 
-## 🗓️ Daily Journal
-I keep a daily journal of my progress as a programmer and Linux user. Follow along with my journey **[HERE](journal/2024q2.md)**.
-
----
-
 ## 🏆 Featured Work
 
 - My [ai.md](https://github.com/wander-mind/linux/blob/main/ai.md) file where I explain the dangers of Big tech's **AI** and how to implement your own better solution locally.
