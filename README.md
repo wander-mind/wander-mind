@@ -53,7 +53,7 @@ Feel free to give me advice and help me out; I will be grateful!
 
 If you find my projects helpful, please consider supporting me:
 
-- 🚀 [Donate BTC](bitcoin:bc1q3jevqctz5k5uy8l886menct3ympuzxgfvs5kux)
+- bitcoin:bc1q3jevqctz5k5uy8l886menct3ympuzxgfvs5kux
 
 ---
 
