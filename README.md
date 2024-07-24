@@ -49,4 +49,12 @@ Feel free to give me advice and help me out; I will be grateful!
 
 ---
 
+## 💸 Support My Work
+
+If you find my projects helpful, please consider supporting me:
+
+- 🚀 [Donate BTC](bitcoin:bc1q3jevqctz5k5uy8l886menct3ympuzxgfvs5kux)
+
+---
+
 Thank you for visiting my GitHub profile! 😊
